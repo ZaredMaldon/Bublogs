@@ -51,11 +51,15 @@ a:hover{
     
     color: #6c01b3;
 }
-svg{
-    color: #6c01b3;
+.iconBusqueda{
+    position: absolute;
+    top: 25px;
+    bottom: 0;
+    left: 500px;
+    
 }
 #Logo{
-    width: 90px;
-    height: 90px ;
+    width: auto;
+    height: 50px ;
     float: left;
 }
